@@ -1,4 +1,3 @@
 pandas==3.0.2
-streamlit==1.51.0
-streamlit==1.56.0
+streamlit
 verovio==6.1.0
